@@ -28,7 +28,7 @@ Here are some ideas to get you started:
      
 <strong>Hi, I am Zhoupeng Wang !👋 </strong>
 
-<strong>I am a Ph.D. student of Syracuse University, USA, majoring in Mechanical Engineering. </strong>
+<strong>I am a Ph.D. student of Syracuse University, USA, majoring in Mechanical and Aerospace Engineering. </strong>
 
 </pre> 
 
